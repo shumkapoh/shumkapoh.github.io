@@ -1,0 +1,16 @@
+body{
+	padding: 20% 40%;
+}
+#container {
+	box-shadow: 5px 5px 5px black;
+}
+
+#cityweather {
+	display: block;
+	margin: auto;
+}
+
+#citylabel {
+	font-size: 30px;
+	text-align: center;
+}
